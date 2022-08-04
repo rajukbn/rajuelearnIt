@@ -1,0 +1,7 @@
+<Trades>
+    <TradeActions>
+        <TradeActtion>
+            <PerformAction>Trade_Verify</PerformAction>
+        </TradeActtion>
+    </TradeActions>
+</Trades>
